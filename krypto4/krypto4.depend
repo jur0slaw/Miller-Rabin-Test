@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480636338 source:c:\users\administrator\documents\programy\krypto 4\krypto4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
